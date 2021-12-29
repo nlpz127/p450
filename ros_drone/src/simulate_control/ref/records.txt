@@ -1,0 +1,65 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Welcome to use VLNCE Terminal Control <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Default Input Control...
+pls input 1 to make the drone take off.
+1
+Pls confirm that you have unlocked the drone and the drone has taken off. (0 for No, 1 for Yes)
+1
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Begin <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Congraduations! Your order has taken effect.
+Please input the reference state [x y z yaw]: 
+setpoint_t[0] --- x [m] : 
+0
+setpoint_t[1] --- y [m] : 
+0
+setpoint_t[2] --- z [m] : 
+0
+setpoint_t[3] --- yaw [du] [Notes]: + Counterclockwise, - Clockwise: 
+0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+The order has been sent.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Begin <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Congraduations! Your order has taken effect.
+Please input the reference state [x y z yaw]: 
+setpoint_t[0] --- x [m] : 
+0
+setpoint_t[1] --- y [m] : 
+0
+setpoint_t[2] --- z [m] : 
+0
+setpoint_t[3] --- yaw [du] [Notes]: + Counterclockwise, - Clockwise: 
+0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+The order has been sent.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Begin <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Congraduations! Your order has taken effect.
+Please input the reference state [x y z yaw]: 
+setpoint_t[0] --- x [m] : 
+1
+setpoint_t[1] --- y [m] : 
+11
+setpoint_t[2] --- z [m] : 
+1
+setpoint_t[3] --- yaw [du] [Notes]: + Counterclockwise, - Clockwise: 
+1
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+The order has been sent.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Begin <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Congraduations! Your order has taken effect.
+Please input the reference state [x y z yaw]: 
+setpoint_t[0] --- x [m] : 
+-1.5
+setpoint_t[1] --- y [m] : 
+0
+setpoint_t[2] --- z [m] : 
+0
+setpoint_t[3] --- yaw [du] [Notes]: + Counterclockwise, - Clockwise: 
+0
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> End <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+The order has been sent.
+The drone begins to landing...
+.....................................................
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thanks for using VLNCE Terminal Control <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
